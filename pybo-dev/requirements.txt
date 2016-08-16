@@ -1,0 +1,8 @@
+# general dependencies
+numpy
+scipy
+matplotlib
+
+# pybo dependencies
+git+https://github.com/mwhoffman/ezplot.git#egg=ezplot
+git+https://github.com/mwhoffman/reggie.git#egg=reggie

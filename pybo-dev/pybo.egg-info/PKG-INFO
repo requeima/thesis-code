@@ -1,0 +1,13 @@
+Metadata-Version: 1.0
+Name: pybo
+Version: 0.2
+Summary: A Python package for modular Bayesian optimization
+Home-page: http://github.com/mwhoffman/pybo
+Author: Matthew W. Hoffman
+Author-email: mwh30@cam.ac.uk
+License: Simplified BSD
+Description: This package provides methods for performing optimization of a possibly
+        noise-corrupted function *f*. In particular this package allows us to place
+        a prior on the possible behavior of *f* and select points in order to gather
+        information about the function and its maximum.
+Platform: UNKNOWN

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../benchfunk/.idea/benchfunk.iml" filepath="$PROJECT_DIR$/../benchfunk/.idea/benchfunk.iml" />
+      <module fileurl="file://$USER_HOME$/Dropbox/Mphil_in_ml/MajorProject_IPES/ipes_experiments/.idea/ipes_experiments.iml" filepath="$USER_HOME$/Dropbox/Mphil_in_ml/MajorProject_IPES/ipes_experiments/.idea/ipes_experiments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pybo-dev.iml" filepath="$PROJECT_DIR$/.idea/pybo-dev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pygp/.idea/pygp.iml" filepath="$PROJECT_DIR$/../pygp/.idea/pygp.iml" />
+    </modules>
+  </component>
+</project>
