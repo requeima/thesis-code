@@ -3,7 +3,9 @@
 Code for Integrated Predictive Entropy Search by James Requeima - A thesis submitted for the Master of Philosopy in Machine Learning, Speech and Language Technologies at the University of Cambridge.
 
 The code consists of developement forks off of two python packages:
+
 Reggie - A Python package for Bayesian regression by Matt Hoffman and Bobak Shahriari. https://github.com/mwhoffman/reggie
+
 Pybo - A Python package for modular Bayesian optimization by Matt Hoffman and Bobak Shahriari. https://github.com/mwhoffman/pybo
 The dependencies for each package are listed in requirements.txt files in each folder.
 
